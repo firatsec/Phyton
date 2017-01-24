@@ -1,0 +1,2 @@
+# Phyton
+Phyton için notlar
